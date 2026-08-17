@@ -32,4 +32,4 @@ In addition to the already substantial and often underappreciated dangers of bui
 
 ## *Learn more about MEW*
 
-[![Watch the video](https://youtube.com)](https://youtube.com)
+[![Watch the video](https://www.youtube.com/watch?v=kAMPJyb5Qlc&t=297s)](https://youtube.com)
