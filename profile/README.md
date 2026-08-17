@@ -14,3 +14,10 @@
 # *About METR*
 
 The *MEW Ecosystem for Transformative Research (METR)* is a managing organization, governance model, and knowledge resource designed to bridge that builder/user split and establish a sustainable, U.S.-led open-source ecosystem (OSE) around the MEWron.
+
+## *Hardware availability*
+
+| Platform | Resource Link | Description |
+| :--- | :--- | :--- |
+| GitHub | [Visit GitHub](https://github.com) | Main development platform. |
+| Google | [Search Google](https://google.com) | Web search engine. |
