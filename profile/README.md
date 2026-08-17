@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 
@@ -11,4 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-The #MEW Ecosystem for Transformative Research (METR) is a managing organization, governance model, and knowledge resource designed to bridge that builder/user split and establish a sustainable, U.S.-led open-source ecosystem (OSE) around the MEWron.
+## *Abut METR*
+
+The *MEW Ecosystem for Transformative Research (METR)* is a managing organization, governance model, and knowledge resource designed to bridge that builder/user split and establish a sustainable, U.S.-led open-source ecosystem (OSE) around the MEWron.
