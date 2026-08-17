@@ -36,9 +36,11 @@ In addition to the already substantial and often underappreciated dangers of bui
 
 ## *Core partners*
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/NSF_logo.png" height="80" alt="National Science Foundation">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Oregon_logo.svg" height="80" alt="University of Oregon">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ohio_State_University_Logo.png" height="80" alt="The Ohio State University">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Oregon_State_University_logo.png" height="80" alt="Oregon State University">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/NSF_logo.png" height="80" alt="National Science Foundation"></td>
+    <td align="center"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Oregon_logo.svg" height="80" alt="University of Oregon"></td>
+    <td align="center"><img src="https://www.clipartmax.com/png/middle/279-2790839_osu-ohio-state-svg-logo.png" height="80" alt="The Ohio State University"></td>
+    <td align="center"><img src="https://images.seeklogo.com/logo-png/58/1/oregon-state-university-logo-png_seeklogo-589458.png" height="80" alt="Oregon State University"></td>
+  </tr>
+</table>
