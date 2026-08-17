@@ -39,7 +39,7 @@ In addition to the already substantial and often underappreciated dangers of bui
 <table align="center">
   <tr>
     <td align="center" width="160"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/NSF_logo.png" height="35" alt="National Science Foundation"></td>
-    <td align="center" width="160"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Oregon_logo.svg?width=300" height="35" alt="University of Oregon"></td>
+    <td align="center" width="160"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Oregon_logo.svg?width=300" height="25" alt="University of Oregon"></td>
     <td align="center" width="160"><img src="https://logos-world.net/wp-content/uploads/2021/09/The-Ohio-State-University-Logo.png" height="70" alt="The Ohio State University"></td>
     <td align="center" width="160"><img src="https://images.seeklogo.com/logo-png/58/1/oregon-state-university-logo-png_seeklogo-589458.png" height="70" alt="Oregon State University"></td>
   </tr>
