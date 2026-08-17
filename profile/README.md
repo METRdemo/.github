@@ -30,6 +30,15 @@ The *MEW Ecosystem for Transformative Research (METR)* is a managing organizatio
 
 In addition to the already substantial and often underappreciated dangers of building and modifying a 3D printer, which involves mains voltage wiring and manually installing and configuring hundreds of watts of electrical heating power into a small box, melt electrowriting (MEW) further introduces a high voltage hazard in the same printer. We thus ask readers to be mindful of these risks and to heed the warnings outlined in the official Voron and MEWron manuals, as well as the information provided by the supplier of the high voltage power supply of your choice.
 
-## *Learn more about MEW*
+## *Learn more about MEW!*
 
 [![Watch the video](https://i.ytimg.com/vi/kAMPJyb5Qlc/hqdefault.jpg)](https://www.youtube.com/watch?v=kAMPJyb5Qlc)
+
+## *Core partners*
+
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/NSF_logo.png" height="80" alt="National Science Foundation">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Oregon_logo.svg" height="80" alt="University of Oregon">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ohio_State_University_Logo.png" height="80" alt="The Ohio State University">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Oregon_State_University_logo.png" height="80" alt="Oregon State University">
+</p>
