@@ -19,6 +19,7 @@ The *MEW Ecosystem for Transformative Research (METR)* is a managing organizatio
 | :--- | :--- | :--- |
 | MEWcoder app | [Pi5 web app](https://editor.p5js.org/nawaz.1/full/zmuh1Bi1K) | Web-based open-access app for the post-processing of G-codes for flat MEW scaffolds. |
 | Melt-ElectroCoder | [Shahak Kuba GitHub](https://github.com/Shahak-Kuba/Melt-ElectroCoder-Application) | Application for generating melt electrowriting (MEW) compatible g-code for flat and tubular scaffolds. |
+| MEW string-art | [Harris GitHub](https://github.com/umpquajoseph/MEWron-String-Art-Gcode) | MEWron-compatible Phyton app that traces a Vrellis/Birsak-style string-art reconstruction of a target image as a single continuous G-code toolpath. |
 
 ## *Hardware availability*
 
