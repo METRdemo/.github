@@ -27,6 +27,9 @@ The *MEW Ecosystem for Transformative Research (METR)* is a managing organizatio
 | :--- | :--- | :--- |
 | MEWron 0.1 | [MEWron GitHub](https://github.com/mewron/mewron) | MEWron 0.1: the first open-source melt electrowriting platform released in 2023. |
 | MEWron 0.2 | [Vazquez GitHub](https://github.com/javi-vzq1/MEWron-0.2) | MEWron 0.2: and update to the melt electrowriting platform with safety features released in 2026. |
+| CryoVoron | [von Briesen GitHub](https://github.com/dimanvb/CryoVoron.git) | CryoVoron: a MEWron 0.1 further modified for cryo-electrohydrodynamic jetting released in 2024. |
+| Tubular MEWron | [von Briesen GitHub](https://github.com/dimanvb/Tubular-MEWron.git) | A tubular mandrel modification for the MEWron 0.1 released in 2023. |
+| Coaxial MEWron | [von Briesen GitHub](https://github.com/dimanvb/Tubular-MEWron.git) | A coaxial printhead modification for the MEWron 0.1 released in 2026. |
 
 ## *Safety considerations*
 
